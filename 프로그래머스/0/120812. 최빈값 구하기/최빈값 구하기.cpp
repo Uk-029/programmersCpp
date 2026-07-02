@@ -4,10 +4,7 @@
 
 using namespace std;
 
-int solution(vector<int> array) {
-    
-    sort(array.begin(), array.end());
-    
+int solution(vector<int> array) {    
     int arr[1001]{};
     int temp{};
     int freq{};
