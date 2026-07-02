@@ -8,6 +8,6 @@ int solution(int n) {
     for(;;) {
         i++;
         if(n % 6 == 0)  return n / 6;
-        else if(n * i % 6 == 0) return n * i / 6;
+        else if(6 * i % n == 0) return i;
     }
 }
