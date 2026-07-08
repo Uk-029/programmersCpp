@@ -10,7 +10,7 @@ string solution(string my_string, int s, int e) {
         temp += (my_string[i]);
     }
     
-    answer.replace(s, e-s+1, temp);
+    answer.replace(s, e-s+1, temp);    //reverse가 더 간단하긴 함
     
     return answer;
 }
