@@ -5,18 +5,17 @@ using namespace std;
 
 vector<string> solution(vector<string> str_list) {
     vector<string> answer;
-    int idx{};
+    int idx = -1;
     
     for(int i{}; i < str_list.size(); i++)  {
-        if(str_list[i] == "l")  {
-            idx = i;
-            break;
-        }
-        else if(str_list[i] == "r") {
+        if(str_list[i] == "l" || str_list[i] == "r")  {
             idx = i;
             break;
         }
     }
+    
+    if (idx == -1)
+        return answer;
     
     if(str_list[idx] == "l")    {
         for(int i{}; i < idx; i++)  {
