@@ -1,6 +1,6 @@
 # [level 0] 왼쪽 오른쪽 - 181890 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 14일 22:07:28
+2026년 07월 14일 22:10:04
 
 ### 문제 설명
 

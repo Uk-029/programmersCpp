@@ -4,7 +4,7 @@
 using namespace std;
 
 vector<string> solution(vector<string> str_list) {
-    vector<string> answer{};
+    vector<string> answer;
     int idx{};
     
     for(int i{}; i < str_list.size(); i++)  {
