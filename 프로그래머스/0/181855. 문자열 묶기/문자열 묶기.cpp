@@ -5,11 +5,10 @@
 using namespace std;
 
 int solution(vector<string> strArr) {
-    int arrSize[31]{0};
-    
-    for(string str: strArr) {
-        arrSize[str.size()]++;
-    }
-    
-    return *max_element(arrSize, arrSize + 31);
+    vector<int> cnt(31);
+
+    for(const auto& str: strArr)
+        ++cnt[str.size()];
+
+    return *max_element(cnt.begin(), cnt.end());
 }
