@@ -1,10 +1,10 @@
 # [level 0] 두 수의 합 - 181846 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181846) 
 
 ### 성능 요약
 
-메모리: 4.7 MB, 시간: 1.27 ms
+메모리: 4.95 MB, 시간: 0.52 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 25일 23:04:03
+2026년 07월 25일 23:07:22
 
 ### 문제 설명
 
