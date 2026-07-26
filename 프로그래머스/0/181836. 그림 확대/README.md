@@ -1,10 +1,10 @@
 # [level 0] 그림 확대 - 181836 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836) 
 
 ### 성능 요약
 
-메모리: 4.82 MB, 시간: 0.07 ms
+메모리: 4.7 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 26일 22:31:00
+2026년 07월 26일 22:33:05
 
 ### 문제 설명
 

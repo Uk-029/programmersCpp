@@ -7,8 +7,8 @@ vector<string> solution(vector<string> picture, int k) {
     vector<string> answer;
     string temp;
     
-    for(int i{}; i < picture.size(); i++)   {
-        for(int j{}; j < picture[i].size(); j++)    {
+    for(size_t i{}; i < picture.size(); i++)   {
+        for(size_t j{}; j < picture[i].size(); j++)    {
             for(int l{}; l < k; l++)    {
                 temp += picture[i][j];
             }
