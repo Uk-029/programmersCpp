@@ -1,10 +1,10 @@
 # [level 0] 특별한 이차원 배열 1 - 181833 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181833#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181833) 
 
 ### 성능 요약
 
-메모리: 6.25 MB, 시간: 1.32 ms
+메모리: 6.27 MB, 시간: 1.49 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 26일 22:52:07
+2026년 07월 26일 22:52:30
 
 ### 문제 설명
 
