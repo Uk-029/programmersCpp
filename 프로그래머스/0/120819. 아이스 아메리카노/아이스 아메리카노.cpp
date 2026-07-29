@@ -4,8 +4,5 @@
 using namespace std;
 
 vector<int> solution(int money) {
-    vector<int> answer;
-    answer.emplace_back(money / 5500);
-    answer.emplace_back(money - 5500 * answer.back());
-    return answer;
+    return vector<int> {money / 5500, money % 5500};
 }
