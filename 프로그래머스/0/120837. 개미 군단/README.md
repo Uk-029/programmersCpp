@@ -1,6 +1,6 @@
 # [level 0] 개미 군단 - 120837 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120837#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120837) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 08월 02일 22:10:14
+2026년 08월 02일 22:11:35
 
 ### 문제 설명
 
