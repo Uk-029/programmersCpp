@@ -6,7 +6,8 @@ using namespace std;
 long long solution(string numbers) {
     long long answer = 0;
     string temp = "";
-    string num[] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+    string num[] = {"zero", "one", "two", "three", "four",
+                    "five", "six", "seven", "eight", "nine"};
     
     for(int i{}; i < numbers.size(); i++)   {
         temp += numbers[i];
